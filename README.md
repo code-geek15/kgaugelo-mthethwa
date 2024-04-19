@@ -49,6 +49,10 @@ Preferred Tools, Languages, and Technologies for Work".
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" width="48" height="48" alt="Spring Boot" />
       <br>Spring Boot
     </td>
+      <td align="center" width="120" height="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/php.svg/512px-php.svg.png" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
   </tr>
 </table>
 <br></br>
