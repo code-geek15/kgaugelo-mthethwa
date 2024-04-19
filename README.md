@@ -5,9 +5,9 @@
 ### Hi I'm Kgaugelo 👋, Software Developer👨‍💻
 <br/>
 Hello, my name is Kgaugelo Mthethwa and I am a software developer. My tech stack involves: Angular, Typescript, HTML/CSS/Bootstrap, PostgresSQL, Spring Boot, Java, and PHP.
-<h2 align="left" id="tech">Tech Stack</h2>
+<h2 align="left" id="tech">My tech Stack</h2>
 
-Tools, languages, and other things that I like to work with.
+Preferred Tools, Languages, and Technologies for Work".
 <table>
   <tr>
    <td align="center" width="120" height="120">
@@ -21,10 +21,6 @@ Tools, languages, and other things that I like to work with.
      <td align="center" width="120" height="120">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" alt="Angular" />
       <br>Angular
-    </td>
-    <td align="center" width="120" height="120"> 
-        <img src="https://ih1.redbubble.net/image.830028208.7543/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" width="48" height="48" alt="Angular Material UI" />
-      <br>Angular Material UI
     </td>
     <td align="center" width="120" height="120">
       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
@@ -53,12 +49,7 @@ Tools, languages, and other things that I like to work with.
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" width="48" height="48" alt="Spring Boot" />
       <br>Spring Boot
     </td>
-     <td align="center" width="120" height="120">
-        <img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
   </tr>
 </table>
 <br></br>
 
-<h2 align="left">My LeetCode Stats</h2>
