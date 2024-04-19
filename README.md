@@ -50,7 +50,7 @@ Preferred Tools, Languages, and Technologies for Work".
       <br>Spring Boot
     </td>
       <td align="center" width="120" height="120">
-        <img src="https://commons.wikimedia.org/wiki/File:PHP-logo.svg" width="48" height="48" alt="PHP" />
+        <img src="[https://commons.wikimedia.org/wiki/File:PHP-logo.svg](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
   </tr>
