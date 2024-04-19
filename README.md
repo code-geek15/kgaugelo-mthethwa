@@ -56,4 +56,6 @@ Preferred Tools, Languages, and Technologies for Work".
   </tr>
 </table>
 <br></br>
+<h2 align="left" id="tech">Check out my stats</h2>
+
 
