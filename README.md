@@ -5,7 +5,7 @@
 ### Hi I'm Kgaugelo 👋, Software Developer👨‍💻
 <br/>
 Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lies in a diverse range of technologies, including Angular, TypeScript, HTML/CSS/Bootstrap, PostgresSQL, Spring Boot, Java, PHP, and various others.
-<h2 align="left" id="tech">My tech Stack</h2>
+<h2 align="left" id="tech">My Tech Stack</h2>
 
 Preferred Tools, Languages, and Technologies for Work".
 <table>
@@ -55,6 +55,6 @@ Preferred Tools, Languages, and Technologies for Work".
     </td>
   </tr>
 </table>
-<h2 align="left" id="tech">Check out my stats</h2>
+<h2 align="left" id="tech">Check Out My Stats</h2>
 
 
