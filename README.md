@@ -10,7 +10,7 @@ Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lie
 Preferred Tools, Languages, and Technologies for Work".
 <table>
   <tr>
-   <td align="center" width="380" height="180">
+   <td align="center" width="400" height="180">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
