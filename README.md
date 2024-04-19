@@ -57,7 +57,7 @@ Preferred Tools, Languages, and Technologies for Work".
 </table>
 <h2 align="left" id="tech">Check Out My Stats</h2>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-geek15&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-geek15&layout=donut&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
