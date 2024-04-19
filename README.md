@@ -58,11 +58,14 @@ Preferred Tools, Languages, and Technologies for Work".
 <h2 align="left" id="tech">Check Out My Stats</h2>
 
 <div style="display:flex; justify-content: space-between;">
-  
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-geek15&layout=donut&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-    [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-geek15&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-    
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-geek15&layout=donut&theme=blueberry" alt="Top Languages" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=code-geek15&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+    </a>
 </div>
+
 
 
 
