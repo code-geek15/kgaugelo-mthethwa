@@ -4,7 +4,7 @@
 
 ### Hi I'm Kgaugelo 👋, Software Developer👨‍💻
 <br/>
-Hello, my name is Kgaugelo Mthethwa and I am a software developer. My tech stack involves: Angular, Typescript, HTML/CSS/Bootstrap, PostgresSQL, Spring Boot, Java, PHP and many other.
+Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lies in a diverse range of technologies, including Angular, TypeScript, HTML/CSS/Bootstrap, PostgresSQL, Spring Boot, Java, PHP, and various others.
 <h2 align="left" id="tech">My tech Stack</h2>
 
 Preferred Tools, Languages, and Technologies for Work".
